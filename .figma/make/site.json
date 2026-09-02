@@ -1,0 +1,10 @@
+{
+  "description": "Securely manage and organize outdoor hiking and camping activities with a professional platform designed for event organizers and club leaders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
